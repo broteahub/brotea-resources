@@ -5,7 +5,7 @@ Estos prompts están diseñados para generar texto que siga las directrices tipo
 ## Titulares Principales (Display Headlines)
 
 ```
-Crea un titular principal para Brotea utilizando la fuente PP Neue Machina Bold para la mayoría del texto, con la palabra clave "[PALABRA CLAVE]" en Biform Pixel. El titular debe ser impactante, moderno y reflejar innovación tecnológica. Fondo oscuro (morado profundo #1E1033), texto en color claro (blanco o lima #C2FF45 para la palabra en Biform Pixel). Estilo minimalista y geométrico que refleje precisión tecnológica.
+Crea un titular principal para Brotea utilizando la fuente PP Neue Machina Bold para la mayoría del texto, con la palabra clave "[PALABRA CLAVE]" en Biform Pixel. El titular debe ser impactante, moderno y reflejar innovación tecnológica. Fondo oscuro (morado profundo #09092D), texto en color claro (blanco o lima #C2FF45 para la palabra en Biform Pixel). Estilo minimalista y geométrico que refleje precisión tecnológica.
 ```
 
 Ejemplos:
@@ -16,7 +16,7 @@ Ejemplos:
 ## Encabezados H1
 
 ```
-Diseña un encabezado H1 para Brotea utilizando PP Neue Machina Medium como fuente principal, con las palabras "[PALABRA CLAVE]" y "[PALABRA CLAVE]" en Biform Pixel. El texto debe ser claro y directo, comunicando [CONCEPTO PRINCIPAL]. Utiliza color morado (#8A4FFF) para el texto principal y lima (#C2FF45) para las palabras en Biform Pixel. Mantén un espaciado generoso y alineación a la izquierda.
+Diseña un encabezado H1 para Brotea utilizando PP Neue Machina Medium como fuente principal, con las palabras "[PALABRA CLAVE]" y "[PALABRA CLAVE]" en Biform Pixel. El texto debe ser claro y directo, comunicando [CONCEPTO PRINCIPAL]. Utiliza color morado (#8180FF) para el texto principal y lima (#C2FF45) para las palabras en Biform Pixel. Mantén un espaciado generoso y alineación a la izquierda.
 ```
 
 Ejemplos:
@@ -48,7 +48,7 @@ Ejemplos:
 ## Combinaciones Tipográficas para Redes Sociales
 
 ```
-Diseña un post para redes sociales de Brotea con un titular en PP Neue Machina Bold, destacando la palabra "[PALABRA CLAVE]" en Biform Pixel con color lima (#C2FF45). Incluye un subtítulo en PP Neue Machina Regular y un breve cuerpo de texto en sans-serif. El diseño debe ser minimalista, con fondo morado oscuro (#1E1033) y amplio espacio negativo. Incorpora elementos geométricos simples que complementen la tipografía.
+Diseña un post para redes sociales de Brotea con un titular en PP Neue Machina Bold, destacando la palabra "[PALABRA CLAVE]" en Biform Pixel con color lima (#C2FF45). Incluye un subtítulo en PP Neue Machina Regular y un breve cuerpo de texto en sans-serif. El diseño debe ser minimalista, con fondo morado oscuro (#09092D) y amplio espacio negativo. Incorpora elementos geométricos simples que complementen la tipografía.
 ```
 
 Ejemplos:
@@ -59,7 +59,7 @@ Ejemplos:
 ## Llamadas a la Acción (CTA)
 
 ```
-Crea un botón de llamada a la acción para el sitio web de Brotea utilizando PP Neue Machina Medium. El texto debe ser corto y directo, invitando a [ACCIÓN DESEADA]. Utiliza fondo lima (#C2FF45) con texto en morado oscuro (#1E1033) para máximo contraste y visibilidad. El botón debe tener forma geométrica con bordes definidos, reflejando la estética tecnológica de la marca.
+Crea un botón de llamada a la acción para el sitio web de Brotea utilizando PP Neue Machina Medium. El texto debe ser corto y directo, invitando a [ACCIÓN DESEADA]. Utiliza fondo lima (#C2FF45) con texto en morado oscuro (#09092D) para máximo contraste y visibilidad. El botón debe tener forma geométrica con bordes definidos, reflejando la estética tecnológica de la marca.
 ```
 
 Ejemplos:
@@ -82,8 +82,8 @@ Para resultados óptimos, considera estas especificaciones técnicas:
   - Preferiblemente en color lima (#C2FF45) sobre fondos oscuros
 
 - **Colores corporativos**:
-  - Morado principal: #8A4FFF
-  - Morado oscuro: #1E1033
+  - Morado principal: #8180FF
+  - Morado oscuro: #09092D
   - Lima: #C2FF45
   - Negro: #000000
   - Blanco: #FFFFFF

@@ -49,7 +49,7 @@ Las ilustraciones isométricas de Brotea son especialmente efectivas para:
 Al generar o adaptar ilustraciones para Brotea:
 
 1. **Mantén la perspectiva isométrica**: Utiliza siempre la misma proyección isométrica (30° desde cada eje)
-2. **Limita la paleta de colores**: Usa solo los colores especificados (#F2F2F2, #D9D9D9, #000000, #8A4FFF, #C2FF45)
+2. **Limita la paleta de colores**: Usa solo los colores especificados (#F2F2F2, #D9D9D9, #000000, #8180FF, #C2FF45)
 3. **Un solo color de acento por ilustración**: Elige o bien el morado o bien el verde lima como único acento
 4. **Conserva el minimalismo**: Evita detalles innecesarios que puedan distraer del mensaje principal
 5. **Mantén la coherencia de estilo**: Asegúrate de que todas las ilustraciones parezcan parte de la misma familia visual

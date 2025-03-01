@@ -103,7 +103,7 @@ Isometric perspective, vector illustration style, clean lines, minimalist design
 - **Background**: Very light gray (#F2F2F2)
 - **Primary structures**: Light gray (#D9D9D9) with black (#000000) outlines
 - **Accent color options**:
-  - Bright purple (#8A4FFF)
+  - Bright purple (#8180FF)
   - Lime green (#C2FF45)
 
 ## Style Variations
