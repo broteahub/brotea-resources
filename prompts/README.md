@@ -1,51 +1,64 @@
-# Brotea Brand Resources
+# Prompts de Marca Brotea
 
-Este repositorio contiene recursos organizados según la estructura del manual de marca de Brotea. Cada sección corresponde a un aspecto específico de la identidad de marca y contiene guías, prompts y recursos para generar contenido consistente con la identidad visual y verbal de Brotea.
+Este directorio contiene prompts categorizados para generar aplicaciones que mantengan la esencia de la marca Brotea. Estos prompts están diseñados para guiar a los agentes de IA en la creación de contenido visual, interfaces y experiencias que reflejen los valores, la estética y la misión de Brotea.
 
-## Estructura del Repositorio
+## Estructura del Directorio
 
-### [01_THE_BRAND](./01_THE_BRAND/)
-Fundamentos de la marca Brotea, incluyendo pilares, misión/visión, arquetipos y manifesto.
+- [**brotea_brand_prompts.md**](./brotea_brand_prompts.md): Documento principal con todos los prompts categorizados
+- [**ejemplos/**](./ejemplos/): Directorio con ejemplos prácticos de uso de los prompts
+  - [Landing Page](./ejemplos/landing_page_ejemplo.md)
+  - [Aplicación Móvil](./ejemplos/app_movil_ejemplo.md)
+  - [Aplicación Web3](./ejemplos/aplicacion_web3_ejemplo.md)
+  - [README.md](./ejemplos/README.md): Guía de uso de los ejemplos
 
-### [02_IDENTIDAD_VERBAL](./02_IDENTIDAD_VERBAL/)
-Recursos relacionados con la identidad verbal de Brotea, incluyendo tono de voz, personalidad y claims de marca.
+## Resumen de la Marca Brotea
 
-### [03_LOGOTIPO](./03_LOGOTIPO/)
-Recursos relacionados con el logotipo de Brotea, incluyendo versiones principales, conceptos clave e isotipos.
+Brotea es una marca que nace para conectar talento y oportunidades, impulsando el desarrollo de estudiantes y emprendedores a través de la colaboración y la tecnología. Sus pilares fundamentales son:
 
-### [04_COLOR](./04_COLOR/)
-Recursos relacionados con la paleta de colores de Brotea, incluyendo colores principales, degradados y usos del logotipo e isotipo.
+1. **Conexión / Nodo / Grupo**: Brotea actúa como un punto de encuentro que conecta personas, ideas y oportunidades.
+2. **Guía / Mentor**: No solo conecta, sino que también guía y acompaña tanto a estudiantes como a emprendedores en su camino.
+3. **Crecimiento / Evolución**: La esencia de Brotea es el progreso y el desarrollo constante.
+4. **Superación / Innovación**: Impulsa a superar barreras y alcanzar nuevas metas a través de la innovación.
+5. **Equidad**: Promueve una estructura horizontal donde todos tienen el mismo valor y el éxito colectivo se construye a través de la colaboración.
 
-### [05_TIPOGRAFIA](./05_TIPOGRAFIA/)
-Recursos relacionados con el sistema tipográfico de Brotea, incluyendo fuentes principales, secundarias y jerarquía tipográfica.
+## Identidad Visual
 
-### [06_FOTOGRAFIA](./06_FOTOGRAFIA/)
-Recursos relacionados con el estilo fotográfico de Brotea, incluyendo estilo general, fotografías con personas y abstractas.
+- **Colores principales**: Electric Violet (#7B68EE), Glow Yellow (#CCFF00), Dark Eggplant (#1E0B2C)
+- **Colores secundarios**: Rosa (#FF6B9E), Verde Teal (#008080), Azul (#4169E1)
+- **Tipografía**: Sans-serif geométrica moderna (PP Neue Machina disponible en `/brotea-resources/05_FUENTES/PP Neue Machina/`)
+- **Elementos distintivos**: Corchetes del logo, mascotas Frame y Stack
+- **Gradientes**: Transiciones de Glow Yellow a Electric Violet a Dark Eggplant
+- **Recursos disponibles**: 
+  - Logotipos: `/brotea-resources/02_LOGO_MASTER/`
+  - Imágenes y fondos: `/brotea-resources/03_IMAGENES/`
+  - Mascota Frame: `/brotea-resources/03_IMAGENES/FRAME/`
+  - Guía completa: `/brotea-resources/AAFF_BROTEA_BRANDBOOK.pdf`
 
-### [07_ILUSTRACION](./07_ILUSTRACION/)
-Recursos relacionados con el estilo de ilustración de Brotea, incluyendo ilustraciones isométricas, frame & stack, square frame y usos.
+## Cómo Usar los Prompts
 
-### [08_ICONOGRAFIA](./08_ICONOGRAFIA/)
-Recursos relacionados con el sistema iconográfico de Brotea.
+Los prompts están organizados en categorías que cubren diferentes aspectos de la creación de aplicaciones:
 
-### [09_APLICACIONES](./09_APLICACIONES/)
-Recursos relacionados con las aplicaciones de la marca Brotea en diferentes contextos, incluyendo redes sociales, visuales, web/mobile, stickers y merchandising.
+1. **Identidad Visual**: Paleta de colores, tipografía, uso del logotipo
+2. **Tono y Voz**: Mensajes principales, estilo de comunicación, llamadas a la acción
+3. **Interfaces de Usuario**: Estructura, componentes, fondos y texturas
+4. **Ilustraciones y Gráficos**: Estilo de ilustración, iconografía, visualización de datos
+5. **Experiencia de Usuario**: Flujos de usuario, onboarding, feedback y mensajes
+6. **Mascots Frame y Stack**: Integración, animaciones y mensajes de las mascotas
+7. **Aplicaciones Web3**: Elementos blockchain, wallets y transacciones, comunidad y gobernanza
 
-## Uso de los Recursos
+Para implementar estos prompts:
 
-Cada sección contiene:
+1. Identifica las categorías relevantes para tu proyecto
+2. Combina prompts de diferentes categorías según necesidades
+3. Adapta los prompts manteniendo los elementos esenciales de la identidad de Brotea
+4. Consulta los ejemplos para ver aplicaciones prácticas
 
-1. **README.md**: Documento que explica el propósito y contenido de la sección.
-2. **Guías**: Documentos que explican los principios y directrices para cada aspecto de la marca.
-3. **Prompts**: Instrucciones específicas para generar contenido con herramientas de IA que se alinee con la identidad de marca.
-4. **Ejemplos**: Muestras de aplicación correcta de las directrices.
+## Recomendaciones
 
-Estos recursos están diseñados para ser utilizados por cualquier persona que necesite crear contenido para Brotea, asegurando consistencia en todos los materiales producidos.
-
-## Contribución
-
-Para añadir nuevos recursos:
-
-1. Identifica la sección apropiada según la estructura del manual de marca.
-2. Sigue el formato y estructura establecidos en los documentos existentes.
-3. Actualiza el README.md de la sección correspondiente para reflejar el nuevo contenido.
+- Mantén siempre presente la misión de Brotea: conectar talento y oportunidades
+- Asegúrate de que las aplicaciones reflejen los valores de conexión, crecimiento, mentoría, superación y equidad
+- Utiliza las mascotas Frame y Stack para personificar diferentes aspectos de la marca
+- Mantén un equilibrio entre innovación tecnológica y accesibilidad para todos los usuarios
+- Prioriza diseños que fomenten la colaboración y el crecimiento colectivo
+- Consulta el brandbook completo en `/brotea-resources/AAFF_BROTEA_BRANDBOOK.pdf` para obtener información detallada sobre todos los aspectos de la marca
+- Revisa los ejemplos en el directorio `/ejemplos/` para ver aplicaciones prácticas de estos prompts
